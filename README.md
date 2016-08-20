@@ -1,6 +1,6 @@
 # Kibana Hacks
 
-This is my tiny collection of Kibana hack plugins. These work just like regular kibana plugins, drop each directory into installedPlugins (eg `installedPlugins/hot-keys`) and restart Kibana. They can also be installed with the `./bin/kibana plugin` command, or could if I published archives. I guess if anyone uses them, maybe I will
+This is my tiny collection of Kibana hack plugins. These work just like regular kibana plugins, drop each directory into plugins (eg `plugins/hot-keys`) and restart Kibana. They can also be installed with the `./bin/kibana-plugin` command, or could if I published archives. I guess if anyone uses them, maybe I will
 
 ## But Beware
 
